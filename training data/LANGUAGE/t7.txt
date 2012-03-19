@@ -1,0 +1,17 @@
+LANGUAGE
+
+Banjar language
+
+Banjar language is the native language used by the Banjarese people of South Kalimantan, Indonesia. As many Banjarese are travelling merchants, they brought their language wherever they went all over Indonesia, even all over the world.
+
+Especially in the island of Kalimantan, Banjarese can be considered as a lingua franca, as it is used widely in three of the four provinces of Kalimantan: South Kalimantan, East Kalimantan, and Central Kalimantan, with the exception of West Kalimantan where Malay is more popular.
+
+Although Banjarese, with six million speakers,[citation needed] is commonly considered "local Malay",[1] a 2008 analysis of the Austronesian Basic Vocabulary Database[2] was not able to verify that it is even Malayic. The study was only able to determine with 80% confidence that Banjar is closer to Malayan and Ibanic than it is to other Malayo-Sumbawan languages. It does appear that it is the most divergent Malayic language included in the study.
+
+The language contains a lot of Malay and some Javanese cognates, but they usually have their own distinctively Banjarese counterparts.
+
+Banjar language is divided into two major dialects; the upper river dialect (Banjar Hulu) and down river dialect (Banjar Kuala). Main differences of the two dialects can be found in phonology and lexicons, although slight difference in syntactic structure can also be noticed. Banjar Hulu has only three vowels, namely /i/, /u/, and /a/. When a word contains vowels other than these three, the foreign vowel will be replaced with one of them based on the closeness of height and other quality of the vowels. For example, Banjarese speaker trying to pronounce English word 'logo' will sound like pronouncing the Indonesian word for innocent, 'lugu'. The Indonesian word 'orang' for human will be pronounced /urang/. The word 'kemana' (where) will be pronounced and even many times spelled 'kamana'. Other distinctive characteristic of Banjar Hulu dialect is that words beginning with a vowel are most likely to be pronounced with an /h/ sound in front of the words. The addition of /h/ sound even can also be noticed in the spelling.
+
+Banjar Kuala has five vowels, /a, i, u, e, o/.
+
+A minor dialect, Bukit, is assigned a separate ISO code.

@@ -1,0 +1,249 @@
+LANGUAGE
+
+Teso language
+
+Ateso (from Teso) is a Nilo-Saharan language, spoken by the Iteso people of Uganda and Kenya. It is one of the Teso–Turkana cluster of languages.
+
+According to the 2002 Uganda population and housing census, over 1.57 million people (6.7% of the total Uganda population)[1] in Uganda spoke Ateso. Also an estimated 279,000 people in Kenya speak it. Its SIL code is TEO.[2]
+
+The Ateso language comes from an area called Teso.
+
+
+
+
+(?) There are twenty two letters in the Ateso alphabet[3] F,H,Q,V,H,X and Z are not used and ? and NY are added. F,H,Q,V,H,X,Z only appear in loan words. The pronunciation guides that follow are for practice only; the correct sounds can only be learned by practice from a teacher or an audio media.
+
+
+(?)There are five vowels in Ateso
+A, E, I, O, U.
+These five letters, however, represent more than five sounds, for the letters E, I, O and U have two values each; a "close" value and an "open" value.
+
+Close vowels are pronounced approximately as follows:
+E as in beg (French é): aipet----- to kick
+I as in seat: aidip----- to hit
+O as in Scottish pronunciation of bone (French eau): aimor----- to insult, to abuse
+U as in fool: aikut----- to scratch the earth, to scoop something
+Open vowels are pronounced approximately as follows:
+E as in beg (French è): aipet ----- to lay out
+I as in sit: ailid----- to fasten
+O as in gone (or in glory when long): aimor----- to share
+U as in full: aikut -----to blow
+A is pronounced as in art (never short as in ram)
+abal 'to say'
+Note that whether the root vowel is "closed" or "open" affects the conjugation of the verb.[4]
+(?) Where the vowels AI or OI stand together, they represent sounds approximating the "i" in bite and "oy" in annoy respectively. In other vowel combinations, both vowels must be given their full values. The "au" in kau -----(behind) is pronounced "kah-oo" not "kow".
+(iv) All words ending in a consonant possess a semi-mute or "shadow" vowel[5] after the final consonant, which is not pronounced when the word stands in isolation, but which is pronounced when the word is followed by another word beginning with a consonant:
+e.g. The Ateso translation of "the women go to the house" is written:
+elosete a?or togo ----- the women are going to the house
+but is pronounced: elosete a?oro Togo
+If the word following is normally written as one with the preceding word, the "shadow" vowel is not only pronounced but written:
+e.g. elosete a?oroke togo ----- his women are going to the house
+Other examples are given in (vii) below.
+(v) There are sixteen consonants and one semi-vowel in Ateso, pronounced approximately as follows:
+B as in bat: bobo -----again
+C as in chat (never as in cat): elacet ----- key
+D as in dog: edou ----- rain
+G as in get (never as in geology): agasia rubbish/trash
+J as in jam: aijar life
+K as in king: ekek door
+L as in let: alalau width
+M as in mat: mam ----- no
+N as in nut: ainu ------ to hug
+?** as in hanger (never as in finger): i?ai ----- who
+NY as in Spanish Señorita: anya ----- grass (plural)
+P as in put: papa ----- father
+R as in rat (should be well rolled): erute ----- gate
+S as in service : aisab ----- to tell lies
+T as in toss: toto ----- mother
+y as in yellow: yoga ----- hello
+
+Semi vowel:
+W as in win: awasia ----- the end, aiwosa ----- to prosecute
+(vi) In words of foreign origin introduced into Teso the missing sound F is replaced by P and the missing sound V by B or P. Z is replaced by S.
+Thus mesa -----table (Kiswahili) becomes e-mesa
+oki-fuga -----to rule (Luganda) becomes ai-puga
+(vii) It is an invariable rule that two consonants can never stand together in the same word. Both in speech and in writing. When word construction brings two consonants together, either one of the consonants must be dropped or the "shadow" vowel mentioned in sub-paragraph (iv) above must be inserted between the consonants.
+E.g. (Omission of one consonant)
+Nen-pe-nen 'just there' is written and pronounced nepenen.
+(Insertion of "shadow" vowel)
+?on-tu?a-nan 'every man' is written and pronounced: ?onitu?anan
+Elacet-kon 'your key' is written and pronounced elacetekon
+**Due to the introduction of typesetting & word processing machines, ? is now almost entirely written NG. It is only in old literature that ? still appears. The fact that in some works the two letters NG are found together in place of ? is no exception to the above rules. These two letters are merely an alternative representation of the sound ?, in the same way as the letters NY represent one sound. The semi-vowel W, however, can and frequently does follow a consonant:
+aswam work
+ekwam air
+
+The correct pronunciation of these letters when formed into words can only be learned by practice. As a general rule, all syllables should be given equal stress, though the stem or root syllable often carries slightly more stress than other syllables. Stress does not,however, affect the length of the vowel stressed or its pitch or tone. It is equally important to note that syllable pitch plays a vital part in correct pronunciation and that many words, which are spelled identically, have a different meanings according to syllable pitch.
+For example:
+__ ? __ élípì ----- I am praying
+___ ___ ? elìpi ----- I was praying
+___ ___ ? elipí ----- he/she was praying
+
+(i) The spelling used in most of the first published Ateso books is in accordance with the official orthography agreed upon by the Ateso Orthography Committee in 1947.[6] It was then accepted as a general principle that all words should be written in full even though normally contacted in speech. It should be particularly noted that a short -a or -e at the end of a word is dropped in speech when the word is followed by a word beginning with a vowel.
+e.g. ekitabo loka etelepat ----- the book of the boy
+is pronounced ekitabo lok' etelepat.
+(ii) Recently, it is evident that the spoken language is continuing to move away from the written language especially in most parts of Uganda. This means that some aspects of orthography may well need revision soon.
+(iii)While the Iteso of Tororo district in Uganda and Teso district in Kenya retain the letter k in the spoken language, the Iteso in most other areas of Uganda tend to omit it in most of the words.[7]
+
+Hello – yoga
+
+How are you? – Ijai biai (singular), Ijaasi biai (plural)
+
+Fine, and you? – Ejokuna, arai ijo?
+
+Fine – ejokuna
+
+What is your name? – Ingai bo ekon'kiror?
+
+My name is ... – Eka'kiror ...
+
+Name --- Ekiror
+
+Nice to see you. --- Eyalama ewanyun (also: Eyalama aanyun)
+
+See you again --- Awanyunos bobo
+
+Book – Eitabo
+
+Because – Naarai
+
+The first sentence in the bible can be translated as Ageunet, abu Edeke Kosub akwap keda akuj ("In the beginning God made the earth and the heavens" lit. "the down and the up").
+
+
+
+
+As with many other languages, Ateso words have grammatical gender. For grammatical purposes all nouns in Ateso are divided into three classes or genders:(a) masculine, ( b) feminine and (c) neuter.
+
+Every noun in Ateso has a prefix which varies according to the gender of the noun or according to whether the noun is singular or plural. Nouns (in the singular) starting with "E" or "O" are usually masculine. Those starting with "A" are feminine while those that start with "I" are neuter. See table below for details.
+
+The only exception to the above rule are certain nouns denoting relationships and directions.
+e.g. toto ----- mother; papa ----- father; mamai ----- uncle; inac ----- sister ; ija ----- aunt
+kide ----- east; too ----- west; ?alakimak (or agolitomei) ----- south; nyakoi ----- north
+It should, however, be noted that the noun prefix is always dropped when the noun comes after the following pronouns or adjectives and their feminine, neuter or plural forms:
+
+The following is a general classification of most nouns.
+[edit](a) Masculine nouns are
+(i) Names of male beings:
+e.g. ekingok – dog
+ekoroi ----- he-goat
+emong ----- bull
+etelepat ----- boy
+Ekue ----—fox
+Ekokor ----—cock
+(ii) Names of most trees and fruit
+e.g. eloa* – mvule tree (* now generally referred to as emapule )
+enimu ----— lemon
+etaget ----— banana
+emucuuga ----— an orange
+(iii) Names of insects:
+e.g. esirut – mosquito
+emukuny ----— black ant
+ekonyelet ----— beetle
+ecwarenit ----— bed-bug
+eidepit ----—flea
+(iv) Names of non-indigenous liquids:
+e.g. ecaai ----— tea
+akaawa** ----— coffee (** derived from the Arabic word qahwa)
+ebia ----— beer
+ebino** ----— wine (** ewain is also accepted )
+[edit](c) Feminine nouns are
+(i) Names of female beings:
+e.g. akingok – bitch
+akinei ----— she-goat
+apese ----— girl
+Akokor ----—hen
+
+(ii) Names of languages and countries:
+e.g. Ateso ----— the Teso language
+Amusugun ----— the English language
+Alulatin ----— the Latin Language
+Amugana ----—The Ganda language language (or Ganda women)
+(iii) Names of indigenous liquids:
+e.g. ajon ----—local cereal brew
+akipi ----— water
+akile ----— milk
+acece ----—soup
+akima ----—porridge (also akuma)
+(iv) Abstract nouns:-
+e.g. ajokus----—goodness (*also ajokis, ajokisu are used depending on the area)
+amin ----- love
+aojau ----—height
+alalau ----—width
+ajijim ----—tastiness
+apianis ----—tastelessness
+anyunyura ----—anger
+
+(v) Verbs used as nouns:
+e.g. alosit ----- going
+abunere ----- coming
+aisiom ----- reading
+aisom ----- jumping
+[edit](c) Neuter nouns are
+(i) Names of neuter or generic objects:
+e.g. itu?anan ----- person (sex unknown)
+irotin ----- roads/ways
+
+(ii) Names of diminutive objects:
+e.g. iki?ok ----- puppy
+ipese ----- baby girl
+Imoru ----- pebble
+imiot ----- chick
+imukeru ----- baby
+
+(i) To form the plural the ending of the noun is changed. This change may consist of the omission of the last syllable, the addition of another syllable or syllables, or the alteration of the last syllable or syllables:
+Plural formation	example
+omission:	amukat (shoe) -amuk (shoes); atipet (bead) – atipe (beads);
+addition:	akan (hand) – akanin (hands); akwap (country)- akwapin (countries)
+alteration:	apese (girl) – apesur (girls); ekek (door)- ikekia (doors);
+(ii) In the case of masculine nouns the noun prefix also changes as shown in the table on noun prefix above.
+
+(iii) These changes in the endings of nouns are so irregular that it is not worth while trying to formulate rules for the formation of plurals.
+
+(iv) Certain nouns, however, which are derived from verbs,form their plurals according to rules;
+
+(a) Nouns denoting an agent of action (a person who does the action of the verb) form a singular ending in -an or -on and a plural ending in -ak or -ok: e.g. ekamejan – hunter ; ikamejak – hunters; ekecokon – herdsman; ikecokok – herdsmen;
+ekadukon -a builder; ikadukok -builders; ekatubon – judge; ikatubok -judges.
+
+(b) Nouns denoting something which does or, is done, form a singular ending in -et or -etait and a plural ending in -eta:
+
+e.g. elacet – (a thing which loosens) key; ilaceta – keys; arapetait – cover arapeta -covers;
+
+(v) Some nouns have no singular and exist only in the plural:
+e.g. akipi—-water; ajony – local brew; asinge – sand; ajo – sleep; ileic – shame
+
+Other nouns have no plural and exist only in the singular;
+e.g. ekuron – ashes; akolo?—sun; adam – brain; eduan – weeds
+
+(vi) Abstract nouns and names of diseases, as in English, have no plural.
+e.g. aiyalama -happiness; amin -love.
+
+(vii) Some nouns form their plural from other roots:
+e.g. aberu – woman, a?or -women; ikoku -child, iduwe – children.
+
+(viii) Some nouns, in addition to the normal plural, form a generic plural by adding -sinei to the plural form:
+e.g. etu?anan - man, itu?a - men; itu?asinei - mankind
+akwap - country, akwapin - countries, akwapisinei - the world (n dropped for euphony).
+
+There is no definite or indefinite article in Teso. Aberu means "a woman" or "the woman" according to the context.
+
+Ateso numerals are from ones place to hundredth place. Numerals upwards from one thousand are borrowed from other languages.
+(i) Numbers from one to five are the basis of the whole numerical system in Ateso. Six (6) is literally translated as 5+1 (five and one), 7 as 5+2 (five and two), etc. In the same way 16 is 10+5+1, 17 is 10+5+2, 21 is 20+1, 26 is also 20+5+1, etc.
+(ii) Numerals agree in gender with the noun they define:
+e.g. itelepai iuni three boys, ikekia iuni three doors, imeesan iuni three tables
+apesur auni three girls, aturo auni three flowers, iduwe iuni three children
+(iii) Numerals always follow the noun. ediope (one) can however, precede, in which case the noun prefix is dropped.
+e.g. edioperot (or erot ediope) one road/way; adiopeberu one woman;
+angor auni three women, irotin iuni three roads/ways
+††The word for zero, esupur, is no longer used in the spoken language. In stead enoot, a loanword derived from the English naught is generally used.
+
+Ordinal numbers are formed from cardinal numbers by prefixing the relative forms lok- (m), nak- (f), yenik-(n) as appropriate, to the masculine form of the numeral and by adding -et after the numeral.
+e.g. akany five, nakikanyet fifth (feminine singular)
+iuni three, lokiuniet third (masculine singular)
+iyarei two, yenikiyareit second (neuter singular)
+
+‡ a majority of Iteso (especially those in the Ugandan districts of Soroti, Kumi, Amuria, Bukedea, Serere_District and Kaberamaido) do not pronounce some ks in speech.
+Thus, nakikanyet is pronounced naikanyet, etc.
+
+Ateso has taken a number of loanwords, primarily from English and Swahili languages.
+Words marked with an asterisk (*) indicates that the last letter in the Ateso word is silent.
+
+++The Ateso word for a telephone is Etelefoni, however, most Ateso speakers are familiar with the word "Esimu" which comes from Luganda.

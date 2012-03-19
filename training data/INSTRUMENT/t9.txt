@@ -1,0 +1,226 @@
+INSTRUMENT
+
+Taiko
+
+Taiko (???) means "drum" in Japanese (etymologically "great" or "wide drum"). Outside Japan, the word is often used to refer to any of the various Japanese drums (???, "wa-daiko", "Japanese drum", in Japanese) and to the relatively recent art-form of ensemble taiko drumming (sometimes called more specifically, "kumi-daiko" (???)). The performances can last between 5 and 25 minutes and typically follow a jo-ha-kyu (beginning, middle, end/rapid, sudden, urgent, and emergency) structure, which means the performance will speed up significantly towards the grand finale.
+
+
+
+
+
+Japanese taiko drums have been developed into a wide range of percussion instruments that are used in both Japanese folk and classical musical traditions.
+
+Taiko, in general, are 3 sticks percussion instruments. With the exception of the "kotsuzumi" and "ootsuzumi", all taiko are struck with bachi. They have heads on both sides of the drum body, and a sealed resonating cavity. Taiko are also characterized by a high amount of tension on the drums heads, with a correspondingly high pitch relative to body size. This high tension likely developed in response to Japan's wet and humid summers when most festivals take place. Many taiko are not tunable, and a drum with high head tension would counteract the slacking effects of humidity.
+
+Taiko are categorized into two types of construction. "Byou-uchi daiko" (?????, tacked-struck drum) taiko have heads nailed to the body. "Shime-daiko" (????, tightened drum), have heads sewn onto iron rings, which are then laced to each other around the drum body.
+
+Byou-uchi daiko are typically hollowed out of a single piece of wood. The preferred wood is "keyaki" (?) due to its density and beautiful grain, but a number of other woods are used, grouped under the generic term "meari" (??). Byou-uchi daiko cannot be tuned, and their sizes are limited by the diameter of the tree they are made from.
+
+The typical byou-uchi daiko is the "nagado-daiko" (????, long-body taiko). The nagado-daiko is an elongated drum, roughly shaped like a wine barrel, that can be shifted in many different ways that affect the sound of the instrument. The drum can also be played by more than one performer at the same time. This style of drum also signifies the family of drums that are made from a single piece of wood. Nagado-daiko are available in a variety of sizes, from 1.0 "shaku" (12" in head diameter), to 3.0 shaku in 1 sun increments. The chu-daiko is a medium sized nagado-daiko. Nagado-daiko over 3.0 shaku are also available, but they are referred to as odaiko (??? great drum). Smaller byou-uchi daiko such as the "sumo-daiko" and "hayashi-daiko" also exist.
+
+One of the most memorable drums of many taiko ensembles is the odaiko (???). For many, the odaiko solo is the embodiment of power due to the size of the drum, the volume, and the endurance it takes to perform. The odaiko is the largest drum of all taiko, if not the entire world. The largest odaiko are too big to move and permanently reside inside a temple or shrine. Odaiko means "big taiko", but within any group, it describes the largest drum in an ensemble, which could mean 12 inches (300 mm) in diameter or 12 feet (3.7 m) in diameter. Made from a single piece of wood, some odaiko come from trees that are hundreds of years old.
+
+Shime-daiko are available in a wide variety of styles, and are tunable. This style of taiko is typically tensioned before each performance. The tensioning system is usually rope, but bolt systems and turnbuckles have been used as well. Shime-daiko can either have stitched heads placed on bodies carved from single piece of wood, such as the "tsukeshime-daiko", "tsuzumi", or stitched heads placed on a stave-construction body such as the okedo-daiko.
+
+The tsukeshime-daiko is roughly snare-drum sized, and is generally available in five sizes, numbered 1 to 5 with names: "namizuke" / "icchougakke", "nichougakke", "sanchougakke", "yonchougakke", and "gochougakke". Namizuke has the thinnest skins, often with a patch of deer skin reinforcement in the center, and is used in classical theater such as noh and kabuki. As the numbers increase, so does skin thickness and tension on the skins. The diameters of all tsukeshime-daiko sizes are approximately the same, but the height of the wooden bodies increases in order to provide greater rope leverage in tightening thicker skins.
+
+Other Japanese taiko include the "uchiwa-daiko" (?????fan taiko), "hira-daiko" (???, flat taiko), "minariisa daiko" (fun time drum), "konisawa-daiko" (tight/hard/tense drum) and a host of percussion instruments used in Japan's traditional noh, gagaku, and kabuki ensembles.
+
+The "okedo" has its own upright stand which was invented by Asano Taiko Drum Company. Again, like the nagado-daiko, the okedo has a rim sound, called "ka". When playing the rim of an okedo, however, it is important to hit only the outermost metal ring and not the actual rim of the drum body. The thin, light wood of the okedo is particularly susceptible to denting and will quickly deteriorate if hit. The Aomori region is famous for the Nebuta festival where huge okedo are played by many people while carted through the streets.
+
+Ko - the body of the drum.
+
+Hara - the center of the skin.
+
+Fuchi - the edge of the top and bottom of the drum.
+
+Kawa - the skin.
+
+Mimi - the excess skin that wraps around the side of the taiko.
+
+Byo - the tacks that hold the skin on a taiko.
+
+Kanagu, or Kan - the ring shaped handles on larger nagadou taiko. ("Kanagu" literally means metal fixtures, or hardware).
+
+Nawa - the rope on a shime or okedo daiko.
+
+Types of wood: Japanese name - English equivalent (if any), and use in taiko, antiques, etc.
+
+Keyaki - Zelkova, used to make single piece taiko and shimedaiko bodies.
+
+Tochi - Horse Chestnut, used to make single piece taiko bodies.
+
+Sen - Unknown, used to make single piece taiko and shimedaiko bodies.
+
+Nara - Scrub Oak, used by Kawada Taiko to make their "Hi-Tech Taikos" which are constructed from 
+staves, also used for Bachi.
+
+Tamo - Unknown, used by Kawada Taiko to make their "Hi-Tech Taikos" which are constructed from staves.
+
+Hinoki - Cypress, used to make bachi, especially for O-daiko.
+
+Matsu - Pine, used for bachi, especially for O-daiko.
+
+Kashi - Evergreen Oak, used for bachi (all sizes), and for dai (stands).
+
+Haku - Oak (general term).
+
+Hoo - Magnolia, used for bachi, all sizes.
+
+Buna - Beech, used for bachi, all sizes.
+
+Take - Bamboo, used to make fue (flutes), and for special types of bachi.
+
+Kaede - Maple, used for special bachi.
+
+Kiri - Paulownia, used for special bachi. Also used in furniture and antiques.
+
+Sugi - Cedar, used in furniture and antiques.
+
+Kaba - Birch, used in making western drums.
+
+Hannoki - Alder, used in furniture and antiques
+
+
+
+According to myth, taiko was started by Ame no Uzume, a shaman-like female deity. One day, fed up with her cruel younger brother, the sun goddess, Amaterasu, hid herself in a cave. The world became pitch dark and the other deities tried to appease Amaterasu, so that world be bright again. They held a big party in front of the cave and Ame no Uzume danced an erotic dance, stamping her feet on a wooden tub. The gods laughed and cheered loudly and the noise provoked Amaterasu to come out her cave. And thus, the world saw light again.
+
+The various drums of taiko are of Chinese origin and were brought to Japan between the Yayoi period (500 BC - 300 AD). Along with the martial use of the drums, they also held a strong foundation in the court style music called Gagaku, performed in the castles and shrines across ancient Japan. Gagaku alone is one of the oldest styles of court music that is still being played in the world today.
+
+In feudal Japan, taiko were often used to motivate troops, to help set a marching pace, and to call out orders or announcements. Approaching or entering a battle, the taiko yaku (drummer) was responsible for setting the marching pace, usually with six paces per beat of the drum (beat-2-3-4-5-6, beat-2-3-4-5-6).
+
+According to one of the historical chronicles (the Gunji Yoshu), nine sets of five beats would summon an ally to battle, while nine sets of three beats, sped up three or four times is the call to advance and pursue an enemy.[1]
+
+
+
+
+Modern taiko was established in 1951 by Daihachi Oguchi. He is credited with forming the first actual Taiko ensemble referred to as kumi-daiko and starting the modern popularity of Taiko performances. Daihachi Oguchi was originally known for his jazz drumming performances. As the story goes, he was going to play a drumming piece for one of the local shrines and decided to add somewhat of a jazz-style flair to the piece. Coming from a jazz background, Daihachi Oguchi speculated why the Taiko drums had never previously been played as an ensemble before. From this simple idea Daihachi Oguchi put together various Taiko of all different shapes, sizes, and pitches to be included in his ensemble. The drums were also arranged in the same type of manner that a jazz drum set would be expected to look like. Since an actual Taiko ensemble had never really performed together and the people he had playing with him were in no way professional musicians, he based the rhythms of their performance on the simplistic arrangement of the shrine music that had been previously played; which allowed for nearly any person with the interest in Taiko could play along. It was from the foundation of the first Taiko ensemble that Daihachi Oguchi continued on to lead the successful Taiko group named Osuwa Daiko. At 84 years old, Daihachi Oguchi died on June 27, 2008, after being hit by a car across from his home in Nagano, Japan. Oguchi is widely attributed as the GrandMaster of modern Taiko. He formed or helped to form nearly 200 taiko groups in Japan, Singapore, Canada and the U.S.
+
+Around the same time as Daihachi Oguchi’s Taiko ensemble's name was spreading around Japan via radio and television broadcasts, another pioneer in the field called, Sukeroku Daiko, emerged. Their performances consisted of speed, fluidity, and power. They also brought flashy choreography and solos. Despite the group’s eventual break up, one of its members, Seido Kobayashi, went on to form the group Oedo Sukeroku Daiko, which is credited for being the very first professional Taiko group.
+
+Another Taiko ensemble that set the framework for one of the most popular groups began on Sado Island. Den Tagayasu (b. Tajiri Kozo, 1931–2001) started Ondekoza on Japan’s Sado Island in 1969. Den was influenced by Mao Tse-Tung’s view of peasantry, so he thought drumming was rooted in the bodies that physically worked the land. This belief would mean Japanese music and bodies could be reborn. Den and the original members of Ondekoza grew much of their own food, learned carpentry, studied Japanese classical and folk arts, and began a training regimen similar to professional athletes. An original member of Ondekoza, Hayashi Eitetsu (b. 1952), stated the training regimen and determination was rooted in the desire to defeat American soldiers after World War II, who occupied Japan. Japanese postwar mentality may be one reason aggression is displayed in taiko drum performances. Den was also influenced by movies. Eitetsu stated Den would make Ondekoza members watch Muhomatsu no Issho. Muhomatsu no Issho, released as the Rickshaw Man 1958 remake in the United States, to recreate the honesty and integrity seen in the film. The actual performance seen in the movie has similar associations with taiko. For example, the yagura (raised platform) that both the odaiko soloist and odaiko rest upon is similar to the one see in the movie. Hayashi was influenced by the famous kung-fu actor Bruce Lee. He saw Lee as a strong Asian male figure and used Lee as a benchmark for stylizing odaiko solo. Den and Hayashi pictured odaiko as erotic strength of the Asian man. Due to complications, the group members and Tagayasu Den split, with Mr. Den leaving to continue Za Ondekoza back on mainland Japan. The remaining members, with the help of drums from Asano Taiko, went on to form the Taiko group Kodo.
+
+Kodo has gone on to be one of the world's most popular and recognized performance ensembles. Since 1988, the group has also hosted Earth Celebration, which brings artists and enthusiasts from all over the world to Sado Island.
+
+Taiko has grown in the United States since coming over from Japan in the late 1960s. The first American taiko group, San Francisco Taiko Dojo, was formed in 1968 by Seiichi Tanaka, a postwar immigrant who studied taiko in Japan and brought the styles and teachings to America. A year later, a few members of Senshin Buddhist Temple in Los Angeles were putting away a drum after an obon festival and decided to have a jam session. After several hours of playing, they decided to form a group. Shortly after, Kinnara taiko was formed. In 1973, the third American taiko group, San Jose Taiko, was formed in the San Jose area. With the assistance of Seiichi Tanaka, Kinnara and Chicago taiko, the New York Buddhist church established the first taiko group on the East Coast, Soh Daiko, in 1979.
+
+The Cirque du Soleil show Mystère in Las Vegas, Nevada, features taiko drumming.
+
+Composer Bear McCreary made heavy use of and helped spread awareness of taiko drums and taiko groups in the soundtracks for the reimagined Battlestar Galactica TV series, most notably in Seasons 1, 4, and 5.[2][3]
+
+TaikOz, a taiko performance group has been performing in Australia since 1997. Members of TaikOz have composed new pieces which are based upon study and performance of drum and flute music from Japan, and the interpretation of music of contemporary Japanese composers such as Maki Ishii and Eitetsu Hayashi[1].
+
+Highlights include an invitation to present an all-Australian program at Tokyo's National Theatre of Japan alongside Eitetsu Hayashi, Fu-un no Kai and didgeridoo virtuoso, Matthew Doyle. This followed a month-long tour of Australia with Eitetsu and Fu-un no Kai in 2006 marking the 30th Anniversary of the Japan-Australia Friendship Agreement. Further appearances in Japan include TaikOz's 2005 tour where the group presented an all-Australian program at the Hibike Festival in Echizen and collaborative concerts in Kobe with colleagues Wadaiko Matsumuragumi. [2]
+
+Japanese Canadian taiko began in the 1970s with Katari Taiko and was inspired by the San Jose Taiko group. After World War II, Japanese Canadians were dispersed across the country. Being Japanese at that time meant shame, guilt, and an image of the enemy. Taiko was embraced by Japanese Canadians to capture their culture and heritage. Although not traditionally played in Canada as it is in Japan, it provided a link to the "homeland". Japanese Canadians fuse the 'old' sound with instruments such as saxophone. The movements are rather more theatrical than martial arts. Also, most performers in Canada are women as opposed to the masculine dominance of Japanese taiko[citation needed]. In N.S.W Sydney M.L.C Burwood has a group of young ladies learning taiko and play all over the city.
+
+Taiko in the United Kingdom has been growing from strength to strength. The first Taiko player in the UK was Joji Hirota, soon followed by the UK's first regularly performing Taiko group, Akatsuki Daiko, set up in 1993. Notable current groups are Mugenkyo, who are the only full-time professional group in the UK, Taiko Meantime, Kagemusha Taiko and Tamashii Daiko.
+
+
+
+
+Aside from the usual style of playing taiko, a number of distinct forms have emerged from different locations within Japan.
+
+Hachijodaiko (alternatively spelled Hachijo taiko, Hichijotaiko, or Hachijo daiko) is a unique style of Japanese drumming originating on Japan's Hachijo Island (Hachijojima), located in the Pacific some 287 kilometers south of Tokyo. Hachijodaiko is an improvisational style of drumming in which the drum is positioned vertically to allow two players to hit either side at the same time. One player provides the underlying beat, or shitabyoushi, while the other builds on this rhythmical foundation with a unique and typically improvised musical composition (uebyoushi). While there are specific types of underlying bass rhythms (shitabyoushi), the accompanying player is free to express an original musical beat.
+
+Hachijojima was once the final destination for political enemies of the ruling government, petty thieves and others banished from the mainland during the 19th century. Home to a diverse population hailing from across the Japanese archipelago the island witnessed the birth of a unique culture with the drum at the center of it all. Among the various Hachijodaiko rhythms, perhaps the most unusual is the intoxicating honbataki rhythm which is most often sung to by one of the two drummers. These songs of longing and romance once served as a courtship ritual and still do today to some extent on this island where the drum is an integral part of the culture.
+
+One of the most notable and oldest living adherents of Hachijodaiko is the nonagenarian Kumao Okuyama.[4] Serving as a bridge to 19th century life on Hachijojima, Okuyama is regarded as a wellspring of information by ethnomusicologists and historians alike. Popular performers of Hachijodaiko include the group, Rokuninkai,[5] who regularly appear in concerts and festivals throughout the Japanese archipelago. Today Hachijodaiko is no longer confined to Hachijojima but can be heard all over Japan as well as the U.S. and elsewhere due to a growing musical diaspora that stretches around the globe.
+
+Miyake is a traditional Japanese taiko drumming style that has become known through works of a taiko group Kodo, and is formally called "Miyake-jima Kamitsuki Mikoshi Daiko". The word 'Miyake' comes from Miyake-jima which is an island of the Izu Island chain and located at 180 km south of Tokyo.
+
+The style of Miyake Taiko has developed as a music for Gozu Tenno Sai—a traditional festival held on July in Miyake-jima since 1820. In this festival, they keep playing Miyake Taiko from 11:00 a.m. to 8:00 p.m. to lead their mikoshi portable shrines going around their town. Akio Tsumura had also played for the festival before Miyake-jima erupted in 2000. After he evacuated from the island, he arranged the original music into a form suitable for musical performance. [3]
+
+There are four different styles of Taiko performance:
+
+Multi-drum, multi-player (?????) - two or more drummers play more than one type of Taiko. This style of performance is popular nowadays (also referred to as Kumidaiko (???))
+
+Multi-drum, one player (?????) - one drummer plays more than one type of Taiko.
+
+One drum, multi-player (?????) - two or more drummers play only one type of Taiko.
+
+One drum, one player (?????) - one drummer plays only one type of Taiko.
+
+
+
+
+The taiko drummer traditionally wears a "hapi coat" or "hanten" (a colorful festival coat), "tabi" (split toe shoes), "tekko" (wristbands), momohiki (pants), hachimaki (headband), "haragake" (traditional workman's apron) with a haramaki underneath (a strip of cloth wrapped around the midsection), so most of the upper body is bare. Also seen are sleeveless shirts. Hayashi suggested the fundoshi be worn when performing to the liking of French fashion designer Pierre Cardin seeing Ondekoza perform for him in 1975. The Japanese Taiko group Kodo typically wears fundoshi loincloths.
+
+
+
+
+Taiko ensembles are groups that are nearly completely drum instruments, with a couple of exceptions. Each of the drums plays a very specific role in the overall aspect of the ensemble. Of the many different styles and shapes of taiko drums, the most common drum found in an ensemble would likely be the nagado-daiko.
+
+Drums are not the only instruments played in the ensemble. They also incorporate a wide variety of other Japanese instruments in their ensembles. Common string instruments found with many different taiko groups would be the biwa, koto, and the shamisen. Of the woodwinds used, the bamboo flutes known as the shakuhachi and the shinobue are popular items.
+
+Gocoo
+
+Kodo
+
+Mugenkyo
+
+Ondekoza
+
+Osuwa Daiko
+
+San Francisco Taiko Dojo
+
+San Jose[disambiguation needed ] Taiko
+
+Shidara
+
+Soh Daiko
+
+TaikoProject
+
+Tao
+
+Tokara
+
+Yamato
+
+Eitetsu Hayashi
+
+Yuu Imafuku
+
+Yoshikazu Fujimoto
+
+Art Lee
+
+Ryo Shiobara
+
+Kenny Endo
+
+Leonard Eto
+
+Ichitaro
+
+Tom Yamamoto
+
+Bachi
+
+Straight wooden sticks used to play taiko drums.
+
+Ji
+
+Also called Jiuchi, is a basic rhythm used to support the main rhythm, or the O-uchi. It can also be described as the meter or feel of a piece (being in a straight duple meter or having a swing feel). Some of the more common rhythms for ji are don doko, don ko, or don go (swing pattern). A Jikata is a performer who plays the ji rhythm.
+
+Kizami 
+
+Straight simple meter.
+
+Ukare 
+
+"Swung" compound meter.
+
+Ma 
+
+A Japanese term that can mean "interval" or "space" (i.e., 'a' tto iu ma; the space it takes to say 'a'; compare "in the blink of an eye"). It is used in music to describe a period of silence. In taiko music, ma is the period between hits on the drum. It is important to appreciate this silence when playing taiko, just as you would appreciate the sound of a hit on the drum. Since ensemble taiko is focused on rhythm, the ma of a piece is critical to adding drama, excitement, and tension. Ma can be a rhythmic rest, or an extended silence, to be broken at the player's discretion. If the player concentrates on hearing the ma between each hit, in addition to the hits themselves, he or she will create a much more effective and satisfying sound. A good example of how ma is used is in oroshi.
+
+Oroshi 
+
+Oroshi is characterized by a series of hits on the taiko. The player starts out slowly with lots of 'ma'(spacing). Gradually the 'ma' between each hit becomes shorter and shorter, until the drummer is playing a rapid roll of hits. In other words, a gradual increase in tempo.
+
+Atarigane 
+
+A high pitched hand-held gong played with a small mallet and used to establish a common tempo. It is also referred to as a "kane" or "chanchiki," a name that comes from the kuchi shoga specific to this instrument.

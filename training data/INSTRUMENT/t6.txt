@@ -1,0 +1,72 @@
+INSTRUMENT
+
+Tom-tom drum
+
+A tom-tom drum (not to be confused with a tam-tam) is a cylindrical drum with no snare.
+
+Although "tom-tom" is the British term for a child's toy drum, the name came originally from the Anglo-Indian and Sinhala;[1] the tom-tom itself comes from Asian or Native American cultures. The tom-tom drum is also a traditional means of communication. The tom-tom drum was added to the drum kit in the early part of the 20th century.
+
+
+
+
+Traditionally, drum kit sizes are expressed as depth x diameter, both in inches. More recently, many major manufacturers have begun instead to express the size as diameter x depth, again always in inches.
+
+For a drum kit tom-tom, the more significant measurement is the diameter, so this article uses diameter x depth. Hence a 10" tom-tom of 8" depth is described as 10 x 8.
+
+For a more detailed description of the conventions and their usage, see drum size conventions.
+
+
+
+
+
+The first drum kit tom-toms had no rims; the heads were tacked to the shell.
+
+As major drum manufacturers began to offer tunable tom-toms with hoops and tuning lugs, a 12 in (30 cm) drum 8 inches (20 cm) deep became standard, mounted on the left side of the bass drum. Later a 16 in (41 cm) drum (16 inches deep) mounted on three legs (a floor tom) was added. Finally, a second drum was mounted on the right of the bass drum, a 13 in (33 cm) diameter drum 9 inches (23 cm) deep. Together with a 14 in (36 cm) snare drum and a bass drum of varying size, these three made up the standard kit of five drums for most of the second half of the 20th century.
+
+Later, the mounted tom-toms, known as hanging toms or rack toms, were deepened by one inch each, these sizes being called power toms. Extra-deep hanging toms, known as cannon depth, never achieved popularity. All these were double-headed.
+
+
+
+
+A wide variety of configurations are commonly available and in use at all levels from advanced student kits upwards. Most toms range in size between 6 and 20 inches (15 and 51 cm) in diameter, though floor toms can go as large as 24 inches (61 cm).
+
+The basic configuration consists of 12" and 13" hanging toms, and optionally a 16x16 floor tom. Smaller kits of the "classic" period omitted the 13" tom; 12x8 and 16x16 was a standard beginner's kit, and widely used at all levels of playing.
+
+A pair of standard depth rack toms are 12x8 and 13x9. This "classic" configuration was popular from the 1950s, and has made a comeback.
+
+Power toms are one inch deeper than standard, so a standard pair is 12x9 and 13x10. This depth overtook the classic setup in polularity during the 1980s, and remains popular despite the comeback of the 
+
+Cannon depth toms are an inch deeper than power toms, so 12x10 and 13x11. Once seen as a logical extension of the power tom setup, this depth never gained popularity.
+
+The basic fusion configuration consists of two hanging toms, a 10x8 and either a 12x8 or a 12x9. Optionally a 14" tom is added, for example either a classic depth 14x10 or power depth 14x11 (or occasionally even deeper) hanging tom mounted on a cymbal stand, or a 14x14 floor tom.
+
+Single-headed tom-toms (also known as concert toms) have also been used in drum kits, though their use has fallen off in popularity since the 1970s. Concert toms have a single head and a shell slightly shallower than the corresponding double-headed tom. Phil Collins still uses four singled-headed rack-mount toms and two floor toms (Gretsch) in his setup. He claims he tunes his toms to "bark" like a seal.
+
+Recently the term concert tom has also been used to describe double or single headed tom-tom drums designed for use in a concert band rather than in a drum kit.[2]
+
+Rototoms have no shell at all, just a single head and a steel frame. Unlike most other drums, they have a variable definite pitch and some composers write for them as a tuned instrument, demanding specific notes. They can be tuned quickly by rotating the head. Since the head rotates on a thread, this raises or lowers the head relative to the rim of the drum and so increases or decreases the tension in the head.
+
+A gong bass drum (also known as "gong drum"), is a large, single-headed tom often sized at 20 in (51 cm) or 22 in (56 cm), with the drumhead being 2 in (5.1 cm) larger than the shell. The sound produced is similar to a bass drum, though it is more open and has longer sustain. They can be mounted with standard floor tom legs, though many drummers mount them at an angle next to the floor tom(s). Notable users include Neil Peart, Stewart Copeland, Bill Bruford, Simon Phillips, Jason Bittner, Mike Portnoy and Dom Howard.
+
+A floor tom is a double-skin drum, most often but not always as deep as its diameter, traditionally mounted on three legs and to the drummers right for a right-handed drummer. It is normally the deepest toned drum played by sticks in the kit, above the bass drum but below all others, and the most resonant, more so than even the bass drum.
+
+
+
+
+Typically a tom consists of a shell, chromed or plated metal hardware and head.
+
+Shell depth standards vary according to the era of manufacture and the drum style. Tom toms are typically made in diameters of: 6 in (15 cm), 8 in (20 cm), 10 in (25 cm), 12 in (30 cm), 13 in (33 cm), 14 in (36 cm), 15 in (38 cm), 16 in (41 cm) and 18 in (46 cm), with heads to fit.
+
+Tom-Toms can be fitted with an adjustable mounting for a floor stand, or attachment to a bass drum or marching rig. They can be single or double-headed.
+
+A crucial factor in achieving superior tone quality and ensuring durability, especially with wood, is the creation of perfectly round shells and much research and development effort has been put into this manufacturing technology.
+
+Shells are often constructed of 6–8 wood plies (often using different woods e.g. mahogany and falkata — birch or maple are commonly used for single-wood plies), solid wood (turned) or man-made materials (e.g. fiberglass, pressed steel, acrylic glass, resin-composite). Wood or composite shells can be finished by laminating in plastic in a large variety of colors and effects (e.g. sparkle or polychromatic); natural wood may be stained or left natural and painted with clear lacquer. Steel is usually chromed, fiberglass self-colored and acrylic glass tinted or clear.
+
+One or two cast or pressed metal rims attach by threaded tension rods or lugs to nut boxes bolted onto the shell holds the heads onto the bearing edges of the shell. The tension rod assembly needs to be precision machined, cast and fitted to enable predictable and secure tuning without inhibiting resonance or introducing extra vibration. All components will be placed under great tension and experience added stresses from playing.
+
+Mounting systems vary greatly, from a simple cast block on the shell which accepts and clamps to a rod attached to a clamp or holder to much more sophisticated arrangements where there is no attachment to the shell, instead a frame clamps to the tuning lugs.
+
+Another sort of rod clamp system allows attachment of the drum to the tom holder without the need of a hole in the drum shell for the rod to pass through. The clamp is attached to the shell at the nodal point with two bolts so as to allow the shell to vibrate freely without degrading the shell's dynamic range and sustain. The nodal point is the location on a shell with the least amount of vibration allowing for the mount to have minimal effect on the resonance of the shell.
+
+Some drummers use a snare stand to hold a tom, thus making it easier to position the tom.

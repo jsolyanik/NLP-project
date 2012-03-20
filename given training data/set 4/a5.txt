@@ -1,0 +1,80 @@
+Yanomaman_languages
+
+ 
+Yanomaman (also Yanomam, Yanomáman, Yamomámi, Yanomamana, Shamatari, Shirianan) is a small language family of northwestern Brazil (Roraima, Amazonas) and southern Venezuela.
+
+
+
+
+Yanomaman consists of 4 languages, very similar with each other, sometimes classified as a dialect continuum:
+
+:# Yanam (  Ninam, Yanam-Ninam)
+:# Sanumá (  Tsanuma, Sanima)
+:# Yanomámi (  Waiká)
+:# Yanomamö (  Yanomame, Yanomami)
+
+Sunumá is the most lexically distinct. Yanomamö has the most speakers (17,600) while Yanam has the fewest (560).
+
+
+
+
+Yanomamam is usually not connected with any other language family. Joseph Greenberg has suggested a relationship between (his) Chibchan. Migliazza (1985) has suggested a connection with Panoan and Chibchan.
+
+
+
+Yanomami languages have a distinction between oral and nasal vowels. There are seven basic vowels: a, e, i, o, u, ɨ (also spelled y), ə. In the Yanam language, u has merged with ɨ.
+
+Yanomaman languages are SOV, suffixing, predominantly head-marking with elements of dependent-marking. Its typology is highly polysynthetic. Adjectival concepts are expressed by means of stative verbs, there are no true adjectives. Adjectival stative verbs follow their noun.
+
+There are five demonstratives which have to be chosen according to distance from speaker and hearer and also according to visibility, a feature shared by many native Brazilian languages such as Tupian ones including Old Tupi. Demonstratives, numerals, classifiers and quantifiers precede the head noun.
+
+There is a distinction between alienable and inalienable possession, again a common areal feature, and a rich system of verbal classifiers, almost a hundred, they are obligatory and appear just before the verb root. The distinction between inclusive and exclusive 1st person plural, a feature shared by most native American languages, has been lost in Yanam and Yanomam dialects, but retained in the others.
+
+Yanomami morphosyntactic alignment is ergative–absolutive, which means that the subject of an intransitive verb is marked the same way as the object of a transitive verb, while the subject of transitive verb is marked differently. The ergative case marker is -ny. The verb agrees with both subject and object.
+
+Evidentiality on Yanomami dialect is marked on the verb and has four levels: eyewitness, deduced, reported, and assumed. Other dialects have fewer levels.
+
+The object of the verb can be incorporated into it, especially if it not in focus:
+
+Non-incorporated:
+:kamijə-ny sipara ja-puhi-i
+:1sg-ERG   axe    1sg-want-DYNAMIC
+:'I want an/the axe'
+
+Incorporated:
+:kamijə-ny  ja-sipara-puhi-i
+:1sg-ERG    1sg-axe-want-DYN
+:'I want [it], the axe'
+
+Relative clauses are formed by adding a relativizing ('REL' below) suffix to the verb: 
+:wãro-n shama shyra-wei ware-ma
+:man-ERG tapir kill-REL eat-COMPL
+:'the man who killed the tapir ate it'
+
+Sanuma dialect also has a relative pronoun ĩ.
+
+
+
+
+* Yanam language
+* Ya̧nomamö
+
+
+
+
+* Aikhenvald, Alexandra Y. & Dixon R.M.W. (1999) The Amazonian Languages Cambridge Language Surveys (p. 341-351)
+* Campbell, Lyle. (1997). American Indian languages: The historical linguistics of Native America. New York: Oxford University Press. ISBN 0-19-509427-1.
+* Greenberg, Joseph H. (1960). General classification of Central and South American languages. In A. Wallace (Ed.), Men and cultures: Fifth international congress of anthropological and ethnological sciences (1956) (pp. 791–794). Philadelphia: University of Pennsylvania Press.
+* Greenberg, Joseph H. (1987). Language in the Americas. Stanford: Stanford University Press.
+* Kaufman, Terrence. (1990). Language history in South America: What we know and how to know more. In D. L. Payne (Ed.), Amazonian linguistics: Studies in lowland South American languages (pp. 13–67). Austin: University of Texas Press. ISBN 0-292-70414-3.
+* Kaufman, Terrence. (1994). The native languages of South America. In C. Mosley & R. E. Asher (Eds.), Atlas of the world's languages (pp. 46–76). London: Routledge.
+* Migliazza, Ernest C. (1985). Languages of the Orinoco-Amazon region: Current status. In H. E. Manelis Klein & L. R. Stark (Eds.), South American Indian languages: Retrospect and prospect (pp. 17–139). Austin: University of Texas Press.
+* Migliazza, Ernest C.; & Campbell, Lyle. (1988). Panorama general de las lenguas indígenas en América. Historia general de América (Vol. 10). Caracas: Instituto Panamericano de Geografía e Historia.
+
+
+
+
+Müller, Marie-Claude Mattei. (2007) Diccionario ilustrado yanomami-español / español-yanomami. Caracas: Epsilon Libros. 782pp.
+
+
+

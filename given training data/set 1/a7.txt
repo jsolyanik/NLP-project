@@ -1,0 +1,96 @@
+John_McCarthy_(computer_scientist)
+
+
+
+John McCarthy (September 4, 1927 – October 24, 2011)          Biggs, John (October 24, 2011).  "Creator of Lisp, John McCarthy, Dead at 84". TechCrunch.  Cifaldi, Frank (October 24, 2011).  "Artificial Intelligence Pioneer John McCarthy Dies". Gamasutra.     was an American computer scientist and cognitive scientist. He coined the term "artificial intelligence" (AI), invented the Lisp programming language  and was highly influential in the early development of AI.
+
+McCarthy also influenced other areas of computing such as time sharing systems. He received the Turing Award for his major contributions to the field of AI, and many other accolades and honors, including the United States National Medal of Science.
+
+
+
+John McCarthy was born in Boston, Massachusetts on September 4, 1927 to an Irish immigrant father and a Lithuanian Jewish immigrant mother,    John Patrick and Ida Glatt McCarthy. The family was forced to move frequently during the Depression, until McCarthy's father found work as an organizer for the Amalgamated Clothing Workers in Los Angeles, California.
+
+McCarthy was exceptionally bright, and graduated from Belmont High School two years early. Woo, Elaine (October 28, 2011).  John McCarthy dies at 84; the father of artificial intelligence. Los Angeles Times.  He showed an early aptitude for mathematics; in his teens he taught himself mathematics by studying the textbooks used at the nearby California Institute of Technology (Caltech). As a result, when McCarthy was accepted into Caltech in 1944, he was able to skip the first two years of mathematics.
+
+McCarthy was reportedly expelled from Caltech for failure to attend physical education courses; he then served in the US Army and was readmitted, receiving a B.S. in Mathematics in 1948. It was at Caltech that he attended a lecture by John Von Neumann that inspired his future endeavors. McCarthy initially continued his studies at Caltech. He received a Ph.D. in Mathematics from Princeton University in 1951 under Solomon Lefschetz.
+
+McCarthy was married three times. His second wife was Vera Watson, a programmer and mountaineer who died in 1978 attempting to scale Annapurna I. He later married Carolyn Talcott, a computer scientist at Stanford and later SRI International.
+
+
+
+After short-term appointments at Princeton, Stanford University, Dartmouth, and MIT, he became a full professor at Stanford in 1962, where he remained until his retirement at the end of 2000. By the end of his early days at MIT he was already affectionately referred to as "Uncle John" .
+
+McCarthy championed mathematical logic for artificial intelligence. In 1956, he organized the first international conference to focus on artificial intelligence. One of the attendees was Marvin Minsky, who became, later, one of the leading theorists in the field, and joined McCarthy at MIT in 1959.  In the fall of 1956, McCarthy won an MIT research fellowship. In 1958, he proposed the advice taker, which inspired later work on question-answering and logic programming. Around 1959, he invented garbage collection to solve problems in Lisp.       Based on the lambda calculus, Lisp rapidly became the programming language of choice for AI applications after its publication in 1960.    He helped to motivate the creation of Project MAC at MIT, but left MIT for Stanford University in 1962, where he helped set up the Stanford AI Laboratory, for many years a friendly rival to Project MAC.
+
+In 1961, he was the first to publicly suggest (in a speech given to celebrate MIT's centennial) that computer time-sharing technology might lead to a future in which computing power and even specific applications could be sold through the utility business model (like water or electricity). This idea of a computer or information utility was very popular in the late 1960s, but faded by the mid-1990s. However, since 2000, the idea has resurfaced in new forms (see application service provider, grid computing, and cloud computing).
+
+In 1966, McCarthy and his team at Stanford wrote a computer program used to play a series of chess games with counterparts in the Soviet Union; McCarthy's team lost two games and drew two games, see Kotok-McCarthy.
+
+From 1978 to 1986, McCarthy developed the circumscription method of non-monotonic reasoning.
+
+McCarthy is also credited with developing an early form of time-sharing. His colleague Lester Earnest told the Los Angeles Times: "The Internet would not have happened nearly as soon as it did except for the fact that John initiated the development of time-sharing systems. We keep inventing new names for time-sharing. It came to be called servers.… Now we call it cloud computing. That is still just time-sharing. John started it."
+
+In 1982 he appears to have originated the idea of the space fountain, a form of "space elevator", which was further examined by Roderick Hyde. McCarthy, John (August 1, 1994).  "Re: SPACE BRIDGE SHORT". Posting in Usenet newsgroup: sci.space.tech.
+
+McCarthy often commented on world affairs on the Usenet forums. Some of his ideas can be found in his sustainability Web page, McCarthy, John (February 4, 1995).  "Progress and its sustainability". formal.stanford.edu.  which is "aimed at showing that human material progress is desirable and sustainable". McCarthy was a serious book reader, an optimist, and a staunch supporter of free speech. His best Usenet interaction is visible in rec.arts.books archives. And John actively attended SF Bay Area dinners in Palo Alto of r.a.b. readers called rab-fests. John went on to defend free speech criticism involving European ethnic jokes at Stanford.
+
+McCarthy saw the importance of math and math education which included a license plate guard on his BMW car noting: those who don't speak math are doomed to speak nonsense (paraphrased).
+
+His 2001 short story "The Robot and the Baby" McCarthy, John (June 28, 2001).  "The Robot and the Baby". formal.stanford.edu.  lightheartedly explored the question of whether robots should have (or simulate having) emotions, and anticipated aspects of Internet culture and social networking that became more prominent in the ensuing decade. Thomson, Cask J. (October 26, 2011).  "The Death of TRUE Tech Innovators D. Ritchie & J. McCarthy – Yet the Death of Steve Jobs Overshadows All.". WordsWithMeaning blog.
+
+
+
+* Turing Award from the Association for Computing Machinery (1971).
+* Kyoto Prize (1988).
+* National Medal of Science (USA) in Mathematical, Statistical, and Computational Sciences (1990)  National Science Foundation .
+* Inducted as a Fellow of the Computer History Museum (1999)
+* Benjamin Franklin Medal in Computer and Cognitive Science from the Franklin Institute (2003).
+* Inducted into IEEE Intelligent Systems' AI's Hall of Fame (2011), for the "significant contributions to the field of AI and intelligent systems".      Press release source: PRWeb (Vocus).
+
+
+
+* McCarthy, J. 1959.  Programs with Common Sense. In Proceedings of the Teddington Conference on the Mechanization of Thought Processes, 756-91. London: Her Majesty's Stationery Office.
+* McCarthy, J. 1960.  Recursive functions of symbolic expressions and their computation by machine. Communications of the ACM 3(4):184-195.
+* McCarthy, J. 1963a A basis for a mathematical theory of computation. In Computer Programming and formal systems. North-Holland.
+* McCarthy, J. 1963b. Situations, actions, and causal laws. Technical report, Stanford University.
+* McCarthy, J., and Hayes, P. J. 1969.  Some philosophical problems from the standpoint of artificial intelligence. In Meltzer, B., and Michie, D., eds., Machine Intelligence 4. Edinburgh: Edinburgh University Press. 463-502.
+* McCarthy, J. 1977. Epistemological problems of artificial intelligence. In IJCAI, 1038-1044.
+* McCarthy, J. 1980. Circumscription: A form of non-monotonic reasoning. Artificial Intelligence 13(1-2):23-79.
+* McCarthy, J. 1986. Applications of circumscription to common sense reasoning. Artificial Intelligence 28(1):89-116.
+* McCarthy, J. 1990. Generality in artificial intelligence. In Lifschitz, V., ed., Formalizing Common Sense. Ablex. 226-236.
+* McCarthy, J. 1993. Notes on formalizing context. In IJCAI, 555-562.
+* McCarthy, J., and Buvac, S. 1997. Formalizing context: Expanded notes. In Aliseda, A.; van Glabbeek, R.; and Westerstahl, D., eds., Computing Natural Language. Stanford University. Also available as Stanford Technical Note STAN-CS-TN-94-13.
+* McCarthy, J. 1998. Elaboration tolerance. In Working Papers of the Fourth International Symposium on Logical formalizations of Commonsense Reasoning, Commonsense-1998.
+* Costello, T., and McCarthy, J. 1999. Useful counterfactuals. Electronic Transactions on Artificial Intelligence 3(A):51-76
+* McCarthy, J. 2002. Actions and other events in situation calculus. In Fensel, D.; Giunchiglia, F.; McGuinness, D.; and Williams, M., eds., Proceedings of KR-2002, 615-628.
+
+
+
+
+* Cornucopian
+* Frame problem
+* Kotok-McCarthy
+* McCarthy 91 function
+
+
+
+* Philip J. Hilts, Scientific Temperaments: Three Lives in Contemporary Science, Simon and Schuster, 1982. Lengthy profiles of John McCarthy, physicist Robert R. Wilson and geneticist Mark Ptashne.
+* Pamela McCorduck, Machines Who Think: a personal inquiry into the history and prospects of artificial intelligence, 1979, second edition 2004.
+* Pamela Weintraub, ed., The Omni Interviews, New York: Ticknor and Fields, 1984. Collected interviews originally published in Omni magazine; contains an interview with McCarthy.
+
+
+
+
+*  McCarthy's Stanford home page.
+*  
+*  
+*  
+*  Interview with Guy Steele conducted at OOPSLA 2008; Set of interviews:
+*  Oral history interview with John McCarthy at Charles Babbage Institute, University of Minnesota, Minneapolis. McCarthy discusses his role in the development of time-sharing at the Massachusetts Institute of Technology. He also describes his work in artificial intelligence (AI) funded by the Advanced Research Projects Agency, including logic-based AI (Lisp) and robotics.
+*  Oral history interview with Marvin Minsky at Charles Babbage Institute, University of Minnesota, Minneapolis. Minsky describes artificial intelligence (AI) research at the Massachusetts Institute of Technology (MIT), including the work of John McCarthy.
+*  Oral history interview with Jack B. Dennis at Charles Babbage Institute, University of Minnesota, Minneapolis. Dennis discusses the work of John McCarthy on time-sharing, and the influence of DARPA's Information Processing Techniques Office on the development of time-sharing.
+*  Oral history interview with Fernando J. Corbató at Charles Babbage Institute, University of Minnesota, Minneapolis. Corbató discusses computer science research, especially time-sharing, at the Massachusetts Institute of Technology (MIT), including John McCarthy and research on time-sharing.
+*
+
+
+

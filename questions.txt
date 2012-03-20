@@ -1,0 +1,51 @@
+PEOPLE
+popular questions: children, marriage, school, positions, birth, death, dates, location
+
+Where was <PN> born? <PN> was born in <N>.
+When was <PN> born? <PN> was born in <N>.
+Did <PN> get married? <PN> did [not] get married.
+(Does|Did) <PN> have kids? <PN> (does|did) have kids.
+Is <PN> male? <PN> is [not] male. 
+Was <PN> <ADJ>? <PN> was [not] <ADJ>.
+Did <PN> <VP>? <PN> did [not] <VP>.
+        VP: graduate, meet, marry, 
+When did <PN> <VP>? <PN> <VP> in <NP>. << verb tenses?
+Is <N> named after <PN>? <N> is [not] named after <PN>.
+Was <PN> born in <N>? <PN> was [not] born in <N>.
+Who were <PN>'s parents? <PN>
+
+
+
+
+ANIMALS/INSECTS
+popular questions: color, relatives, size comparisons, body parts, diet, 
+
+Are <N> <ADJ/ADV>? <N> are <ADJ/ADV>.
+	ADV: fast fliers
+Is <NP> found in <N>?
+Is <NP> <ADJ>?
+	ADJ: a mammal, a reptile, built for stamina
+
+
+
+
+CITIES
+What is the population of <x>? The population of <x> is <y>.
+What country is <x> in? <x> is in <y>.
+Where is <PN>? <PN> is in <N>.
+
+
+COUNTRY
+popular questions: language, people, neighboring countries
+
+Did <PN> <VP>?
+	V: cede
+What is the <N> of <PN>? 
+	N: official language, currency, capital, population
+Is <PN> <ADJ>?
+	ADJ: bilingual, a monarchy, a republic, 
+Is <PN> bordered by <PN>?
+Where is <PN>? <PN> is in <N>.
+Can <N> <v> in <NP>? (i.e. Can women drive in Qatar?)
+
+

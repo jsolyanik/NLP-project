@@ -12,6 +12,61 @@ import java.util.Set;
 
 public class DocumentUtil {
 
+	public static MyDocument getDocument(String filename) throws IOException {
+		MyDocument doc = new MyDocument();
+		BreakIterator senItr = BreakIterator.getSentenceInstance();
+
+		
+		if (!filename.contains(".txt")) {
+			return null;
+		}
+		
+		BufferedReader in = new BufferedReader(new FileReader(filename));
+		
+//		String cat = in.readLine(); // first line is category
+//		doc.cat = cat;
+		
+		List<String> sens = new ArrayList<String>();
+		String line;
+		
+		HashMap<String, Integer> bagOfWords = new HashMap<String, Integer>();
+		
+		while ((line = in.readLine()) != null) {				
+
+			senItr.setText(line);
+			int last = 0;
+			int next;
+			while ((next = senItr.next()) != BreakIterator.DONE) {
+				String it = line.substring(last, next);
+				it = it.replaceAll("\\. ", " \\. ");
+				it = it.replaceAll("[,]", " , ");
+				it = it.replaceAll("[;]", " ; ");
+				it = it.replaceAll("[:]", " : ");
+				it = it.replaceAll("[!]", " ! ");
+				it = it.replaceAll("[?]", " ? ");
+				it = it.replaceAll("[(]", " ( ");
+				it = it.replaceAll("[)]", " ) ");
+				sens.add(it.toLowerCase());
+				last = next;
+			}
+			
+			String[] words = line.split("[ *]"); // split on whitespace for words
+			for (String word : words) {
+				word = word.toLowerCase().replaceAll("[.,;?!)(]", ""); // standardize word
+				if (bagOfWords.containsKey(word)) {
+					bagOfWords.put(word, bagOfWords.get(word) + 1);
+				} else {
+					bagOfWords.put(word, 1);
+				}
+			}
+		}
+		
+		doc.bagOfWords = bagOfWords;
+		doc.sentences = sens;
+		
+		return doc;
+	}
+	
 	public static Set<MyDocument> getDocuments() throws IOException {
 		File dir = new File("training");
 		String files[] = dir.list();

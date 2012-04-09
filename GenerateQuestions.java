@@ -6,29 +6,37 @@ import java.util.Set;
 
 public class GenerateQuestions {
 
+	/* first arg is filename, second arg is numquestion */
 	public static void main(String[] args) {
-		// this map is from category to all words found in the category and their counts. our bag of words model for each document.
-		HashMap<String, HashMap<String, Integer>> trainingDocs = new HashMap<String, HashMap<String, Integer>>();
-		
-		// how many total words per document
-		HashMap<String, Integer> catWords = new HashMap<String, Integer>();
-		
-		try {
-			DocClassify.readTraining(trainingDocs, catWords);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+//		// this map is from category to all words found in the category and their counts. our bag of words model for each document.
+//		HashMap<String, HashMap<String, Integer>> trainingDocs = new HashMap<String, HashMap<String, Integer>>();
+//		
+//		// how many total words per document
+//		HashMap<String, Integer> catWords = new HashMap<String, Integer>();
+//		
+//		try {
+//			DocClassify.readTraining(trainingDocs, catWords);
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
 
-		Set<MyDocument> docs = null;
+		String cat = null;
+		
 		try {
-			docs = DocumentUtil.getDocuments();
+			cat = DocClassifier.classify("testing.txt");
+		} catch (IOException e1) {
+			e1.printStackTrace();
+		}
+		
+		MyDocument doc = null;
+		try {
+			doc = DocumentUtil.getDocument("testing.txt");
+			doc.cat = cat;
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
-		for (MyDocument doc : docs) {
-			System.out.println("****** " + doc.sentences.get(0));
 			if (doc.cat.equals(MyDocument.person)) {
 				Set<String> questions = Questions.getPerson(doc);
 				for (String q : questions) {
@@ -50,8 +58,6 @@ public class GenerateQuestions {
 					System.out.println(q);
 				}
 			}
-			
-		}
 		
 		
 		

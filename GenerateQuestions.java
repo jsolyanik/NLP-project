@@ -45,7 +45,10 @@ public class GenerateQuestions {
 					System.out.println(q);
 				}
 			} else if (doc.cat.equals(MyDocument.inst)){
-				continue;
+				Set<String> questions = Questions.getInst(doc);
+				for (String q : questions) {
+					System.out.println(q);
+				}
 			}
 			
 		}

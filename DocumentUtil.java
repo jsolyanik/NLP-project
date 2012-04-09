@@ -43,6 +43,14 @@ public class DocumentUtil {
 				int next;
 				while ((next = senItr.next()) != BreakIterator.DONE) {
 					String it = line.substring(last, next);
+					it = it.replaceAll("\\. ", " \\. ");
+					it = it.replaceAll("[,]", " , ");
+					it = it.replaceAll("[;]", " ; ");
+					it = it.replaceAll("[:]", " : ");
+					it = it.replaceAll("[!]", " ! ");
+					it = it.replaceAll("[?]", " ? ");
+					it = it.replaceAll("[(]", " ( ");
+					it = it.replaceAll("[)]", " ) ");
 					sens.add(it.toLowerCase());
 					last = next;
 				}
